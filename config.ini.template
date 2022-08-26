@@ -1,0 +1,6 @@
+[DNAC]
+server=<IP_or_hostname>
+port=<TCP_port>
+username=<username>
+password=<password>
+baseUrl=/dna/intent/api
