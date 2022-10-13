@@ -6,7 +6,7 @@ which returns only the counts of Advisories in each severity category, or you ca
 which returns all the details about each Advisory, with the addition of affected device information being
 added to the JSON data for each Advisory.
 
-You can choose between three file output formats: JSON, CSV, or Excel  Each file will be saved in the 
+You can choose between three file output formats: JSON, CSV, or Excel.  Each file will be saved in the 
 current working directory with an appropriate name that includes the current date/time stamp.
 
 For information on the available command line options, run the following command (or similar):
